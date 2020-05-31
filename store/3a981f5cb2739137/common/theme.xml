@@ -16676,6 +16676,9 @@
     <state id="msp_snow_nccxmas_snow02.swf" name="Small pile" enable="Y"/>
     <state id="msp_snow_nccxmas_snow03.swf" name="Stalactites" enable="Y"/>
   </prop>
+  <prop id="msp_zim" name="Zim" holdable="0" placeable="1" wearable="0" facing="left" thumb="Zim laughing.swf" enable="Y" is_premium="N" aid="11286" money="0" sharing="0">
+    <state id="Zim thinking.swf" name="Confused/Thinking" enable="Y"/>
+  </prop>
   <prop id="nccxmas_snowflake.swf" name="Snow flake" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11498" money="0" sharing="0"/>
   <prop id="msp_snowglobe01" name="Snow globe" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_snowglobe01_nccxmas_snowglobe01_off.swf" enable="Y" is_premium="Y" aid="11499" money="0" sharing="0">
     <state id="msp_snowglobe01_nccxmas_snowglobe01_off.swf" name="still" enable="Y" default="Y"/>
